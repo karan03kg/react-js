@@ -1,0 +1,10 @@
+.red{
+    border-bottom: 2px solid red;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+}
+li:hover{
+    font-weight: bold;
+}

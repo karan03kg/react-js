@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  border: 2px solid black;
+  width: 11.5vw;
+  padding: 10px;
+  position: absolute;
+  top: 220px;
+  right: 650px;
+}
+
+input{
+  margin-top: 10px;
+  height: 30px;
+  width: 160px;
+  padding-left: 3px;
+}
+div{
+  color: red;
+  font-size: 12px;
+}
