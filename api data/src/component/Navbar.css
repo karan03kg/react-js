@@ -1,0 +1,16 @@
+.nav li{
+    list-style: none;
+}
+.nav ul{
+    display: flex;
+    gap: 30px;
+}
+.nav{
+    border: 2px solid black;
+    background-color: aquamarine;
+    /* margin-bottom: 10px; */
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    padding: 20px;
+}

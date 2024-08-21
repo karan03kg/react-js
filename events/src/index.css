@@ -1,0 +1,24 @@
+.hover{
+  border: 2px solid black;
+  width: 100px;
+  border-radius: 10px;
+  margin-top: 30px;
+  padding-left: 30px;
+  background-color: red;
+  color: white;
+}
+.button{
+  /* margin-left: 30px; */
+  /* border: 2px solid black; */
+  width: 125px;
+}
+.button button{
+  width: 125px;
+  height: 70px;
+  background-color: green;
+  font-size: 20px;
+  border-radius: 10px;
+}
+input{
+  margin-top: 20px;
+}
